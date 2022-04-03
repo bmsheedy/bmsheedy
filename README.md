@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Brandon Sheedy (@bmsheedy)
-- I am a Mechanical Engineering student attending the University at Buffalo.
+- Currently a student attending the University at Buffalo.
+- Major: Mechanical Engineering | Minor: Computer Science
