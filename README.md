@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Brandon Sheedy (@bmsheedy)
-- I am a Mechanical Engineering student currently attending the University at Buffalo.
+- I am a Mechanical Engineering student attending the University at Buffalo.
