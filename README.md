@@ -3,4 +3,4 @@
 - ⚙️ Major: Mechanical Engineering | 🖥️ Minor: Computer Science
 - 👀 My interests/hobbies are robotics, artificial intelligence (AI), machine learning, chess, gaming, martial arts, and bodybuilding.
 - 🔥 I’m currently not actively looking to take on any new projects. However, if the right opportunity presents itself, I would be happy to open my schedule.
-- 📬 You can reach me on Discord at brandons#0854
+- 📬 You can reach me on Discord at brandons#0854 or via email at brandon@renderbyte.net
