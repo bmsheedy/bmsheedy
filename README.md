@@ -11,7 +11,7 @@
 
 ## Current Projects
 
-- **[Real-time A.I. for Live Streaming](#)**: Incorporating real-time object detection into live streaming.
-- **[UFC Fight Prediction Model](#)**: Leverages machine learning to predict UFC fight outcomes. Updating 2024.
+- **Real-time A.I. for Live Streaming**: Incorporating real-time object detection into live streaming.
+- **UFC Fight Prediction Model**: Leverages machine learning to predict UFC fight outcomes. Updating 2024.
 
 Currently developing the details for a project that bridges AI and Fitness. Feel free to reach out if you're interested in taking part!
