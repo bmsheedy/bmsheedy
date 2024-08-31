@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Brandon Sheedy! 👋
 
-<!--
-**bmsheedy/bmsheedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔧 **Skills**: Robotics, Machine Learning, Control Systems.
+- 💻 **Languages**: Python, C, C++, JavaScript, Swift.
+- 🎓 **Degree**: Bachelor of Science in Mechanical Engineering, Minors in Computer Science and Robotics.
+- 🌐 **LinkedIn**: [Brandon Sheedy](https://www.linkedin.com/in/brandon-sheedy/)
+- 📧 **Email**: [brandonsheedy@gmail.com](mailto:brandonsheedy@gmail.com)
+- 💬 **Discord**: brandonsheedy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- **[Real-time A.I. for Live Streaming](#)**: Incorporating real-time object detection into live streaming.
+- **[UFC Fight Prediction Model](#)**: Leverages machine learning to predict UFC fight outcomes. Updating 2024.
+
+Currently developing the details for a project that bridges AI and Fitness. Feel free to reach out if you're interested in taking part!
