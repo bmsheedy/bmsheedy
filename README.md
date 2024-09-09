@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔧 **Skills**: Robotics, Machine Learning, Control Systems.
+- 🔧 **Skills**: Robotics, Control Systems, Machine Learning, Algorithmic Trading.
 - 💻 **Languages**: Python, C, C++, JavaScript, Swift.
 - 🎓 **Degree**: Bachelor of Science in Mechanical Engineering, Minors in Computer Science and Robotics.
 - 🌐 **LinkedIn**: [Brandon Sheedy](https://www.linkedin.com/in/brandon-sheedy/)
