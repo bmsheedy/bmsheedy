@@ -11,4 +11,4 @@
 
 ## Current Projects
 
-- **Real-time A.I. for Live Streaming**: Incorporating real-time object detection into live streaming.
+- Developing AI Tools for Industrial Automation.
