@@ -1,4 +1,4 @@
-# Hey, I'm Brandon Sheedy! 👋
+# Hey, I'm Brandon 👋
 
 ## About Me
 
