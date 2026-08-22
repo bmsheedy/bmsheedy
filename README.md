@@ -11,4 +11,4 @@
 
 ## Current Projects
 
-- Developing AI Tools for Industrial Automation.
+- Developing AI for Industrial Automation.
