@@ -11,4 +11,5 @@
 
 ## Current Projects
 
-- Developing AI for Industrial Automation.
+Developing AI for Industrial Automation; find out more about my work here: https://github.com/Nodeblue-AI
+
