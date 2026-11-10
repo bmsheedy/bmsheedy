@@ -1,15 +1,15 @@
 # Hey, I'm Brandon 👋
 
-## About Me
+Engineer working on robotics, safety-critical control systems, and machine learning. 
+B.S. in Mechanical Engineering, minors in Computer Science and Robotics.
 
-- 🔧 **Skills**: Robotics, Saftey-Critical Control Systems, Machine Learning.
-- 💻 **Languages**: Python, C++, C#, C.
-- 🎓 **Degree**: Bachelor of Science in Mechanical Engineering, Minors in Computer Science and Robotics.
-- 🌐 **LinkedIn**: [Brandon Sheedy](https://www.linkedin.com/in/brandon-sheedy/)
-- 📧 **Email**: [brandonsheedy@gmail.com](mailto:brandonsheedy@gmail.com)
-- 💬 **Discord**: brandonsheedy
+**Languages:** Python, C++, C#, C
 
-## Current Projects
+## Current Projects:
 
-Developing AI for Industrial Automation; find out more about my work here: https://github.com/Nodeblue-AI
+Developing AI for industrial automation at [Nodeblue](https://github.com/Nodeblue-AI).
+
+## Contact:
+
+[LinkedIn](https://www.linkedin.com/in/brandon-sheedy/) · [Email](mailto:brandonsheedy@gmail.com) · Discord: brandonsheedy
 
