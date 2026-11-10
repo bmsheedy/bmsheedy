@@ -1,7 +1,6 @@
 # Hey, I'm Brandon 👋
 
-Engineer working on robotics, safety-critical control systems, and machine learning. 
-B.S. in Mechanical Engineering, minors in Computer Science and Robotics.
+Control Systems Engineer who loves working on robotics and AI projects.
 
 **Languages:** Python, C++, C#, C
 
