@@ -10,5 +10,5 @@ Developing AI for industrial automation at [Nodeblue](https://github.com/Nodeblu
 
 ## Contact:
 
-[LinkedIn](https://www.linkedin.com/in/brandon-sheedy/) · [Email](mailto:brandonsheedy@gmail.com) · Discord: brandonsheedy
+[LinkedIn](https://www.linkedin.com/in/brandon-sheedy/) · [Email](mailto:brandonsheedy@gmail.com)
 
