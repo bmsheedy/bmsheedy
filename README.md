@@ -6,7 +6,7 @@ Control Systems Engineer who loves working on robotics and AI projects.
 
 ## Current Projects:
 
-Developing AI for industrial automation at [Nodeblue](https://github.com/Nodeblue-AI).
+Developing AI tooling for industrial automation: [Nodeblue](https://github.com/Nodeblue-AI).
 
 ## Contact:
 
